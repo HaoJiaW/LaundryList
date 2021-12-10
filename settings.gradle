@@ -1,3 +1,0 @@
-include ':baselibs'
-include ':app'
-rootProject.name = "LaundryList"
